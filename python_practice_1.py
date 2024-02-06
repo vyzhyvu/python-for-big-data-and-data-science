@@ -1,0 +1,1 @@
+print('Kateryna Mudra, KN-5')
